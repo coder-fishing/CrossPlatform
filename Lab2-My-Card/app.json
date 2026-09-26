@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "My Card",
+    "slug": "lab2-my-card",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ],
+    "android": {
+      "package": "com.example.lab2mycard"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.lab2mycard"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
