@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "I Am Rich",
+    "slug": "lab1-im-rich",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.example.lab1imrich"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.lab1imrich"
+    }
+  }
+}
